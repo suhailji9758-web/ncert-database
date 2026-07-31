@@ -1,0 +1,54 @@
+[
+{
+"id": "ncert-english-mridang-1",
+"title": "Mridang - Class 1 English",
+"class": "1",
+"coverUrl": "https://ncert.nic.in/textbook/pdf/aemr1cc.jpg",
+"chapters": [
+{
+"chapterName": "Prelims",
+"pdfUrl": "https://ncert.nic.in/textbook.php?aemr1=ps-9"
+},
+{
+"chapterName": "Guide for using QR Code",
+"pdfUrl": "https://ncert.nic.in/textbook/pdf/instruction.pdf"
+},
+{
+"chapterName": "Chapter 1",
+"pdfUrl": "https://ncert.nic.in/textbook.php?aemr1=1-9"
+},
+{
+"chapterName": "Chapter 2",
+"pdfUrl": "https://ncert.nic.in/textbook.php?aemr1=2-9"
+},
+{
+"chapterName": "Chapter 3",
+"pdfUrl": "https://ncert.nic.in/textbook.php?aemr1=3-9"
+},
+{
+"chapterName": "Chapter 4",
+"pdfUrl": "https://ncert.nic.in/textbook.php?aemr1=4-9"
+},
+{
+"chapterName": "Chapter 5",
+"pdfUrl": "https://ncert.nic.in/textbook.php?aemr1=5-9"
+},
+{
+"chapterName": "Chapter 6",
+"pdfUrl": "https://ncert.nic.in/textbook.php?aemr1=6-9"
+},
+{
+"chapterName": "Chapter 7",
+"pdfUrl": "https://ncert.nic.in/textbook.php?aemr1=7-9"
+},
+{
+"chapterName": "Chapter 8",
+"pdfUrl": "https://ncert.nic.in/textbook.php?aemr1=8-9"
+},
+{
+"chapterName": "Chapter 9",
+"pdfUrl": "https://ncert.nic.in/textbook.php?aemr1=9-9"
+}
+]
+}
+]
