@@ -1,54 +1,69 @@
-[
 {
-"id": "ncert-english-mridang-1",
-"title": "Mridang - Class 1 English",
-"class": "1",
-"coverUrl": "https://ncert.nic.in/textbook/pdf/aemr1cc.jpg",
-"chapters": [
-{
-"chapterName": "Prelims",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/aemr1ps.pdf"
-},
-{
-"chapterName": "Guide for using QR Code",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/instruction.pdf"
-},
-{
-"chapterName": "Chapter 1",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/aemr101.pdf"
-},
-{
-"chapterName": "Chapter 2",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/aemr102.pdf"
-},
-{
-"chapterName": "Chapter 3",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/aemr103.pdf"
-},
-{
-"chapterName": "Chapter 4",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/aemr104.pdf"
-},
-{
-"chapterName": "Chapter 5",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/aemr105.pdf"
-},
-{
-"chapterName": "Chapter 6",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/aemr106.pdf"
-},
-{
-"chapterName": "Chapter 7",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/aemr107.pdf"
-},
-{
-"chapterName": "Chapter 8",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/aemr108.pdf"
-},
-{
-"chapterName": "Chapter 9",
-"pdfUrl": "https://ncert.nic.in/textbook/pdf/aemr109.pdf"
+  "ncert_books": [
+    {
+      "book_id": "joyful_maths_class1_eng",
+      "book_title": "Joyful-Mathematics (English)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://ncert.nic.in/textbook/pdf/aejm1cc.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%281%29.pdf"
+        },
+        {
+          "chapter_name": "Guide for using QR Code",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%282%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%283%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%284%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%285%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%286%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%287%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%288%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%289%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%2810%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%2811%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%2812%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%2813%29.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%2814%29.pdf"
+        }
+      ]
+    }
+  ]
 }
-]
-}
-]
