@@ -64,6 +64,71 @@
           "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%2814%29.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class1_hin",
+      "book_title": "Joyful-Mathematics (Hindi)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://ncert.nic.in/textbook/pdf/ahjm1cc.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%284%29"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%281%29"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%282%29"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%283%29"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%285%29"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%286%29"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%287%29"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%288%29"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%289%29"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%2810%29"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%2811%29"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%2812%29"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%2813%29"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/details/chapter-1-1_20260804/chapter%201%20%2814%29"
+        }
+      ]
     }
   ]
 }
