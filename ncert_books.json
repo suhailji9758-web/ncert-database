@@ -198,6 +198,71 @@
           "pdf_url": "https://archive.org/download/amrjm1ps/chapter%201%20%284%29.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class1_sin",
+      "book_title": "Joyful-Mathematics (Sindhi)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://ncert.nic.in/textbook/pdf/asijm1cc.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/asijm1ps/chapter%201.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/asijm1ps/asijm113.pdf"
+        }
+      ]
     }
   ]
 }
