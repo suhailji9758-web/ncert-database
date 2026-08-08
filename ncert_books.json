@@ -129,10 +129,8 @@
           "pdf_url": "https://archive.org/download/chapter-1-1_20260804/chapter%201%20%2814%29.pdf"
         }
       ]
-    }
-  ]
-},
-{
+    },
+    {
       "book_id": "joyful_maths_class1_mar",
       "book_title": "Joyful-Mathematics (Marathi)",
       "class_name": "Class 1",
@@ -201,3 +199,5 @@
         }
       ]
     }
+  ]
+}
