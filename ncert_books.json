@@ -653,6 +653,71 @@
           "pdf_url": "https://archive.org/download/aijm1ps/aijm113.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class1_bod",
+      "book_title": "Joyful-Mathematics (Bodo)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://ncert.nic.in/textbook/pdf/aojm1cc.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/aojm1ps/aojm113.pdf"
+        }
+      ]
     }
   ]
 }
