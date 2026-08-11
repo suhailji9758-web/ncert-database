@@ -66,6 +66,71 @@
       ]
     },
     {
+      "book_id": "joyful_maths_class1_snt",
+      "book_title": "Joyful-Mathematics (Santhali)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://ncert.nic.in/textbook/pdf/asnjm1cc.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm1cc.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm113.pdf"
+        }
+      ]
+    },
+    {
       "book_id": "joyful_maths_class1_hin",
       "book_title": "Joyful-Mathematics (Hindi)",
       "class_name": "Class 1",
