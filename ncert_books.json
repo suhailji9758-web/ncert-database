@@ -848,6 +848,71 @@
           "pdf_url": "https://archive.org/download/aorjm1ps/aorjm113.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class1_ben",
+      "book_title": "Joyful-Mathematics (Bengali)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://ncert.nic.in/textbook/pdf/abjm1cc.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/abnjm1ps_202608/abnjm113.pdf"
+        }
+      ]
     }
   ]
 }
