@@ -783,6 +783,71 @@
           "pdf_url": "https://archive.org/download/askjm1ps/askjm113.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class1_ori",
+      "book_title": "Joyful-Mathematics (Oriya)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://ncert.nic.in/textbook/pdf/aorjm1cc.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/aorjm1ps/aorjm113.pdf"
+        }
+      ]
     }
   ]
 }
