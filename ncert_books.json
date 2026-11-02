@@ -1433,6 +1433,71 @@
           "pdf_url": "https://archive.org/download/atmjm1ps/atmjm113.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class1_dogri",
+      "book_title": "Joyful-Mathematics (Dogri)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://archive.org/download/adgjm1ps/adgjm1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/adgjm1ps/adgjm113.pdf"
+        }
+      ]
     }
   ]
 }
