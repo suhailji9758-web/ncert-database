@@ -1303,6 +1303,71 @@
           "pdf_url": "https://archive.org/download/atljm1ps/atljm113.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class1_kannada",
+      "book_title": "Joyful-Mathematics (Kannada)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://archive.org/download/aknjm1ps/aknjm1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/aknjm1ps/aknjm113.pdf"
+        }
+      ]
     }
   ]
 }
