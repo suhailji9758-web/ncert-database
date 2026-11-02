@@ -1737,6 +1737,63 @@
           "pdf_url": "https://archive.org/download/aush1ps/aush118.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class2_english",
+      "book_title": "Joyful-Mathematics (English)",
+      "class_name": "Class 2",
+      "subject_name": "Mathematics",
+      "cover_url": "https://archive.org/download/bejm1ps/bejm1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/bejm1ps/bejm111.pdf"
+        }
+      ]
     }
   ]
 }
