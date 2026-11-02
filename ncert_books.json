@@ -1794,6 +1794,63 @@
           "pdf_url": "https://archive.org/download/bejm1ps/bejm111.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class2_hindi",
+      "book_title": "Joyful-Mathematics (Hindi)",
+      "class_name": "Class 2",
+      "subject_name": "Mathematics",
+      "cover_url": "https://archive.org/download/bhjm1ps/bhjm1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/bhjm1ps/bhjm111.pdf"
+        }
+      ]
     }
   ]
 }
