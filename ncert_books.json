@@ -1563,6 +1563,95 @@
           "pdf_url": "https://archive.org/download/aksjm1ps/aksjm113.pdf"
         }
       ]
+    },
+    {
+      "book_id": "sarangi_class1_hindi",
+      "book_title": "Sarangi (Hindi)",
+      "class_name": "Class 1",
+      "subject_name": "Hindi",
+      "cover_url": "https://archive.org/download/ahsr1ps/ahsr1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr113.pdf"
+        },
+        {
+          "chapter_name": "Chapter 14",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr114.pdf"
+        },
+        {
+          "chapter_name": "Chapter 15",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr115.pdf"
+        },
+        {
+          "chapter_name": "Chapter 16",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr116.pdf"
+        },
+        {
+          "chapter_name": "Chapter 17",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr117.pdf"
+        },
+        {
+          "chapter_name": "Chapter 18",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr118.pdf"
+        },
+        {
+          "chapter_name": "Chapter 19",
+          "pdf_url": "https://archive.org/download/ahsr1ps/ahsr119.pdf"
+        }
+      ]
     }
   ]
 }
