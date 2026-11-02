@@ -2593,5 +2593,62 @@
         }
       ]
     }
-  ]
+  ],
+  {
+      "book_id": "joyful_maths_class2_manipuri",
+      "book_title": "Joyful-Mathematics (Manipuri)",
+      "class_name": "Class 2",
+      "subject_name": "Mathematics",
+      "cover_url": "https://archive.org/download/bmnjm1ps/bmnjm1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/bmnjm1ps/bmnjm111.pdf"
+        }
+      ]
+    }
 }
