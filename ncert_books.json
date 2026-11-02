@@ -1173,6 +1173,71 @@
           "pdf_url": "https://archive.org/download/aujm1ps/aujm113.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class1_nepali",
+      "book_title": "Joyful-Mathematics (Nepali)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://archive.org/download/anpjm1ps/anpjm1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/anpjm1ps/anpjm113.pdf"
+        }
+      ]
     }
   ]
 }
