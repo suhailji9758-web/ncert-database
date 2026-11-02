@@ -1652,6 +1652,91 @@
           "pdf_url": "https://archive.org/download/ahsr1ps/ahsr119.pdf"
         }
       ]
+    },
+    {
+      "book_id": "shahnai_class1_urdu",
+      "book_title": "Shahnai (Urdu)",
+      "class_name": "Class 1",
+      "subject_name": "Urdu",
+      "cover_url": "https://archive.org/download/aush1ps/aush1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/aush1ps/aush1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/aush1ps/aush101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/aush1ps/aush102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/aush1ps/aush103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/aush1ps/aush104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/aush1ps/aush105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/aush1ps/aush106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/aush1ps/aush107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/aush1ps/aush108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/aush1ps/aush109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/aush1ps/aush110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/aush1ps/aush111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/aush1ps/aush112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/aush1ps/aush113.pdf"
+        },
+        {
+          "chapter_name": "Chapter 14",
+          "pdf_url": "https://archive.org/download/aush1ps/aush114.pdf"
+        },
+        {
+          "chapter_name": "Chapter 15",
+          "pdf_url": "https://archive.org/download/aush1ps/aush115.pdf"
+        },
+        {
+          "chapter_name": "Chapter 16",
+          "pdf_url": "https://archive.org/download/aush1ps/aush116.pdf"
+        },
+        {
+          "chapter_name": "Chapter 17",
+          "pdf_url": "https://archive.org/download/aush1ps/aush117.pdf"
+        },
+        {
+          "chapter_name": "Chapter 18",
+          "pdf_url": "https://archive.org/download/aush1ps/aush118.pdf"
+        }
+      ]
     }
   ]
 }
