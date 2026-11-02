@@ -2820,6 +2820,63 @@
           "pdf_url": "https://archive.org/download/bkojm107/Joyful-Mathematics%20%28Konkani%29/bkojm111.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class2_kannada",
+      "book_title": "Joyful-Mathematics (Kannada)",
+      "class_name": "Class 2",
+      "subject_name": "Mathematics",
+      "cover_url": "https://archive.org/download/bknjm1ps/bknjm1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/bknjm1ps/bknjm111.pdf"
+        }
+      ]
     }
   ]
 }
