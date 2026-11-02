@@ -2193,6 +2193,63 @@
           "pdf_url": "https://archive.org/download/bmtjm1ps/bmtjm111.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class2_marathi",
+      "book_title": "Joyful-Mathematics (Marathi)",
+      "class_name": "Class 2",
+      "subject_name": "Mathematics",
+      "cover_url": "https://archive.org/download/bmrjm1ps/bmrjm1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/bmrjm1ps/bmrjm111.pdf"
+        }
+      ]
     }
   ]
 }
