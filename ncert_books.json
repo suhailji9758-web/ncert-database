@@ -1043,6 +1043,71 @@
           "pdf_url": "https://archive.org/download/asnjm1cc_202608/asnjm113.pdf"
         }
       ]
+    },
+    {
+      "book_id": "joyful_maths_class1_manipuri",
+      "book_title": "Joyful-Mathematics (Manipuri)",
+      "class_name": "Class 1",
+      "subject_name": "Mathematics",
+      "cover_url": "https://archive.org/download/amnjm1ps/amnjm1ps.jpg",
+      "chapters": [
+        {
+          "chapter_name": "Prelims",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm1ps.pdf"
+        },
+        {
+          "chapter_name": "Chapter 1",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm101.pdf"
+        },
+        {
+          "chapter_name": "Chapter 2",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm102.pdf"
+        },
+        {
+          "chapter_name": "Chapter 3",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm103.pdf"
+        },
+        {
+          "chapter_name": "Chapter 4",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm104.pdf"
+        },
+        {
+          "chapter_name": "Chapter 5",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm105.pdf"
+        },
+        {
+          "chapter_name": "Chapter 6",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm106.pdf"
+        },
+        {
+          "chapter_name": "Chapter 7",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm107.pdf"
+        },
+        {
+          "chapter_name": "Chapter 8",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm108.pdf"
+        },
+        {
+          "chapter_name": "Chapter 9",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm109.pdf"
+        },
+        {
+          "chapter_name": "Chapter 10",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm110.pdf"
+        },
+        {
+          "chapter_name": "Chapter 11",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm111.pdf"
+        },
+        {
+          "chapter_name": "Chapter 12",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm112.pdf"
+        },
+        {
+          "chapter_name": "Chapter 13",
+          "pdf_url": "https://archive.org/download/amnjm1ps/amnjm113.pdf"
+        }
+      ]
     }
   ]
 }
